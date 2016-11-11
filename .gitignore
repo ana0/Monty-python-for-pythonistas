@@ -6,3 +6,5 @@
 *.prproj
 *.pptx
 *.docx
+*.tmp
+*.pyc
