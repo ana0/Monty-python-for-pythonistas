@@ -1,0 +1,80 @@
+http://www.vox.com/2016/8/9/12417100/donald-trump-assassinate-hillary-clinton-joke
+https://www.quora.com/What-are-some-of-the-best-examples-of-references-to-Monty-Python-in-Python-code
+https://www.reddit.com/r/ProgrammerHumor/comments/1y40jj/i_just_realized_how_common_monty_python/
+https://www.reddit.com/r/todayilearned/comments/1t3w42/til_that_the_programming_language_python_is_named/
+https://www.python.org/dev/peps/pep-3146/#pep-withdrawal
+https://news.ycombinator.com/item?id=1991122
+http://archive.oreilly.com/pub/a/oreilly/news/parrotstory_0401.html
+http://wiki.c2.com/?ParrotLanguage
+http://www.parrot.org/source.html
+http://docplayer.net/4368890-Parrot-in-a-nutshell-dan-sugalski-dan-sidhe-org-parrot-in-a-nutshell-1.html
+http://articles.mongueurs.net/magazines/linuxmag97.html
+http://www.perl.com/pub/2001/04/01/parrot.htm
+http://www.thegeektwins.com/2013/09/9-geekiest-things-named-after-monty_5.html#.WCTRgy0rKCo
+
+To add: guido's killer joke essay, and spam and eggs
+
+E. B. White: “Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it.”
+
+“The judgment of whether something is funny or not is spontaneous, automatic, almost a reflex,” writes Dutch sociologist Giselinde Kuipers. “Sense of humor thus lies very close to self-image.” Humor also takes on the shape of the teller’s surroundings: age, gender, class, and clan. Shared humor implies shared identity, shared ways of confronting reality. When we don’t get a joke, we feel left out; when we get a joke, or better yet, tell the joke that everyone roars at, we belong. “If you’re both laughing, it means you see the world in the same way,” says Peter McGraw, psychologist and co-author of The Humor Code: A Global Search for What Makes Things Funny.
+
+“And now for something completely different.”
+
+spam scene is why email spam is called spam (before code section)
+
+https://recurse.zulipchat.com/#narrow/stream/python/subject/ISO.20your.20python.20jokes
+
+python > ISO your python jokes
+
+Sarah Friend (S2'16): You know how python people tend to name everything after Month Python? I am in search of your favourite examples, the weirder the better!
+Had a conversation about this with some folks the other day and now I want more!
+
+James J. Porter (S'13): @Sarah Friend (S2'16) my favorite one of these is referring to PyPI (the server from which you download python packages) as "the cheeseshop", which is a reference to a Monty Python sketch. A Recurser (I forgot who, sorry!) told me recently that the original joke was that in the sketch, the cheeseshop had no cheese in it, and when they first setup PyPI, it had no packages in it
+
+Sarah Friend (S2'16): Thanks James!
+
+Sarah Friend (S2'16): That story is the inspiration for this thread, lol
+
+James J. Porter (S'13): hahah
+
+James J. Porter (S'13): wait was it you who told me this story?!?!? If so I'm sorry I forgot ;_;
+
+Sarah Friend (S2'16): No! You told it to me like a week ago
+
+Jérémie Jost (S1'16): A lot of the code samples in the official python documentation are references to some sketch or the other.
+
+Jérémie Jost (S1'16): For example, https://docs.python.org/3.3/tutorial/controlflow.html#keyword-arguments references https://www.youtube.com/watch?v=4vuW6tQ0218
+
+
+Jérémie Jost (S1'16): Spam and eggs are used as placeholder/variable names throughout the doc as well, they're kinda equivalents to foo and bar
+
+Jérémie Jost (S1'16): It's a reference to https://www.youtube.com/watch?v=anwy2MPT5RE
+
+
+Jérémie Jost (S1'16): (the modern use of spam as a term for unsollicited email comes from this sketch as well, see https://en.wikipedia.org/wiki/Spamming#Etymology)
+
+Jérémie Jost (S1'16): For projects, https://en.wikipedia.org/wiki/Unladen_Swallow comes to mind.
+
+Jérémie Jost (S1'16): The cheese shop sketch https://www.youtube.com/watch?v=cWDdd5KKhts (they're all on the official monty python youtube channel)
+
+
+Sarah Friend (S2'16): Omg these are so much funnier than I expected
+
+Sarah Friend (S2'16): Lolling rn in the quiet room
+
+Jérémie Jost (S1'16): https://docs.python.org/3/tutorial/datastructures.html#looping-techniques is a reference to Monty Python and the Holy Grail, specifically https://www.youtube.com/watch?v=cV0tCphFMr8
+
+
+Jérémie Jost (S1'16): (aka The Best Movie Ever)
+
+Jérémie Jost (S1'16): (yes, I might be a bit of a Monty Python fan)
+
+Vaibhav Sagar (F1'16): The git reimplementation in Python is called dulwich: https://www.youtube.com/watch?v=HtyO4tmpPdk
+
+
+Vaibhav Sagar (F1'16): PyPI used to be known as the Cheese Shop: https://wiki.python.org/moin/CheeseShop
+
+Sarah Friend (S2'16): :+1:
+
+Sarah Friend (S2'16): This one is in string formatting https://www.youtube.com/watch?v=zIV4poUZAQo
+
